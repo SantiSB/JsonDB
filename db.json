@@ -30,23 +30,24 @@
 						"code": "#FFFFFF"
 					}	
 				  ],
-			"images": [
+			"mainPicture": 	{
+						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+						"imgColor": "Negro",
+					},
+			"secondaryPictures": [
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
 						"imgColor": "Negro",
-						"principal": true,
 					},
 				
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
 						"imgColor": "Negro",
-						"principal": false,
 					},
 				
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
 						"imgColor": "Blanco",
-						"principal": false,
 					},
 				  ]
 	
@@ -79,24 +80,25 @@
 						"color": "Blanco",
 						"code": "#FFFFFF"
 					}
-				  ],
-			"images": [
+				  ],	
+			"mainPicture": 	{
+						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+						"imgColor": "Negro",
+					},
+			"secondaryPictures": [
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
 						"imgColor": "Negro",
-						"principal": false,
 					},
 				
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
 						"imgColor": "Negro",
-						"principal": false,
 					},
 				
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
 						"imgColor": "Blanco",
-						"principal": true,
 					},
 				  ]
 	
