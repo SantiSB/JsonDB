@@ -22,11 +22,11 @@
 			"recomendations": "Lavar a mano, secar al sol"
 			"colors": [
 					{
-						"color": "Negro"
+						"color": "Negro",
 						"code": "#000000"
 					},
 					{
-						"color": "Blanco"
+						"color": "Blanco",
 						"code": "#FFFFFF"
 					}
 				  ],
@@ -72,11 +72,11 @@
 			"recomendations": "Lavar a mano, secar al sol"
 			"colors": [
 					{
-						"color": "Negro"
+						"color": "Negro",
 						"code": "#000000"
 					},
 					{
-						"color": "Blanco"
+						"color": "Blanco",
 						"code": "#FFFFFF"
 					}
 				  ],
