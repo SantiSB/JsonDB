@@ -35,71 +35,21 @@
 						"imgColor": "Negro",
 					},
 			"secondaryPictures": [
-					{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Negro",
-					},
-				
-					{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Negro",
-					},
-				
-					{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Blanco",
-					},
-				  ]
-	
+						{
+							"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+							"imgColor": "Negro",
+						},
+
+						{
+							"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+							"imgColor": "Negro",
+						},
+
+						{
+							"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+							"imgColor": "Blanco",
+						},
+					     ]
 		},
-		{
-			"id": 2,
-			"title": "Bolso Cartera Amaranto",
-			"material": "Cuero",
-			"reference": "415",
-			"description": "Bolso tipo cartera con cierre de cremallera externo, con 4 bolsillos internos y 1 externo. División interna con bolsillo de cremallera. Manijas de 55 cm, incluye accesorio-fleco extraíble.",
-			"price": 130000,
-			"availability": "No disponible",
-			"size": "Mediano",
-			"closing": "Sin cierre",
-			"top": "Sin tapa",
-			"cover": "Sin forro",
-			"orientation": "Vertical",
-			"measurements": {
-						"width": 20,
-						"high": 60,
-						"depth": 60,
-					},
-			"recomendations": "Lavar a mano, secar al sol",
-			"colors": [
-					{
-						"color": "Negro",
-						"code": "#000000"
-					},
-					{
-						"color": "Blanco",
-						"code": "#FFFFFF"
-					}
-				  ],	
-			"mainPicture": 	{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Negro",
-					},
-			"secondaryPictures": [
-					{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Negro",
-					},
-				
-					{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Negro",
-					},
-				
-					{
-						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-						"imgColor": "Blanco",
-					},
-				  ]
-	
-		},
+	]
+}
