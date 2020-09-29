@@ -20,16 +20,17 @@
 						"depth": 30,
 					},
 			"recomendations": "Lavar a mano, secar al sol"
-			"colors": [
-					{
-						"color": "Negro",
-						"code": "#000000"
-					},
-					{
-						"color": "Blanco",
-						"code": "#FFFFFF"
-					}
-				  ],
+			"colors": 
+			[
+				{
+					"color": "Negro",
+					"code": "#000000"
+				},
+				{
+					"color": "Blanco",
+					"code": "#FFFFFF"
+				}
+			],
 			"images": [
 					{
 						"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
