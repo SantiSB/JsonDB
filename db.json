@@ -1,5 +1,6 @@
 {
-	"results": [
+    "results": 
+        [
 			{
 				"id": 1,
 				"title": "Bolso Cartera Amapola",
@@ -14,41 +15,41 @@
 				"cover": "Con forro",
 				"orientation": "Horizontal",
 				"measurements": {
-							"width": 50,
-							"high": 80,
-							"depth": 30,
-						},
+                    "width": 50,
+                    "high": 80,
+                    "depth": 30
+				},
 				"recomendations": "Lavar a mano, secar al sol",
 				"colors": [
-						{
-							"color": "Negro",
-							"code": "#000000"
-						},
-						{
-							"color": "Blanco",
-							"code": "#FFFFFF"
-						}	
-					  ],
+                    {
+                        "color": "Negro",
+                        "code": "#000000"
+                    },
+                    {
+                        "color": "Blanco",
+                        "code": "#FFFFFF"
+                    }	
+				],
 				"mainPicture": 	{
-							"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-							"imgColor": "Negro",
-						},
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+                    "imgColor": "Negro"
+                },
 				"secondaryPictures": [
-							{
-								"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-								"imgColor": "Negro",
-							},
+                    {
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+                        "imgColor": "Negro"
+                    },
 
-							{
-								"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-								"imgColor": "Negro",
-							},
+                    {
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+                        "imgColor": "Negro"
+                    },
 
-							{
-								"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
-								"imgColor": "Blanco",
-							},
-						     ]
-			},
-		   ]
+                    {
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
+                        "imgColor": "Blanco"
+                    }
+                ]
+			}
+	    ]
 }
