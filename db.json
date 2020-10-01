@@ -1,23 +1,22 @@
 {
-    "results": 
-        [
-			{
-				"id": 1,
-				"title": "Bolso Cartera Amapola",
-				"material": "Cuero",
-				"reference": "007",
-				"description": "Bolso tipo cartera con cierre de cremallera externo, con 4 bolsillos internos y 1 externo. División interna con bolsillo de cremallera. Manijas de 55 cm, incluye accesorio-fleco extraíble.",
-				"price": 150000,
-				"availability": "Disponible",
-				"size": "Grande",
-				"closing": "Con cierre",
-				"top": "Con tapa",
-				"cover": "Con forro",
-                "orientation": "Horizontal",
-                "width": 50,
-                "high": 80,
-                "depth": 30,
-				"recomendations": "Lavar a mano, secar al sol",
+    "results": [	
+	{
+		"id": 1,
+		"title": "Bolso Cartera Amapola",
+		"material": "Cuero",
+		"reference": "007",
+		"description": "Bolso tipo cartera con cierre de cremallera externo, con 4 bolsillos internos y 1 externo. División interna con bolsillo de cremallera. Manijas de 55 cm, incluye accesorio-fleco extraíble.",
+		"price": 150000,
+		"availability": "Disponible",
+		"size": "Grande",
+		"closing": "Con cierre",
+		"top": "Con tapa",
+		"cover": "Con forro",
+		"orientation": "Horizontal",
+		"width": 50,
+		"high": 80,
+		"depth": 30,
+		"recomendations": "Lavar a mano, secar al sol",
                 "productoCaracteristicas": [
                     {
                         "id": 1,
@@ -63,27 +62,27 @@
                     }
                 ]
             },
-			{
-				"id": 2,
-				"title": "Bolso Cartera Amaranto",
-				"material": "Cuero",
-				"reference": "415",
-				"description": "Bolso tipo cartera con cierre de cremallera externo, con 4 bolsillos internos y 1 externo. División interna con bolsillo de cremallera. Manijas de 55 cm, incluye accesorio-fleco extraíble.",
-				"price": 120000,
-				"availability": "No Disponible",
-				"size": "Pequeño",
-				"closing": "Sin cierre",
-				"top": "Sin tapa",
-				"cover": "Sin forro",
+	    {
+		"id": 2,
+		"title": "Bolso Cartera Amaranto",
+		"material": "Cuero",
+		"reference": "415",
+		"description": "Bolso tipo cartera con cierre de cremallera externo, con 4 bolsillos internos y 1 externo. División interna con bolsillo de cremallera. Manijas de 55 cm, incluye accesorio-fleco extraíble.",
+		"price": 120000,
+		"availability": "No Disponible",
+		"size": "Pequeño",
+		"closing": "Sin cierre",
+		"top": "Sin tapa",
+		"cover": "Sin forro",
                 "orientation": "Vertical",
                 "width": 20,
                 "high": 70,
                 "depth": 30,
-				"recomendations": "Lavar a mano, secar al sol",
-				"productoCaracteristicas": [
+		"recomendations": "Lavar a mano, secar al sol",
+		"productoCaracteristicas": [
                     {
                         "id": 1,
-                        "principal": true,
+                        "principal": false,
                         "imagen": "https://lobocueros.s3.amazonaws.com/productos/imagenes/verde.jpg",
                         "genero": {
                             "id": 3,
@@ -110,6 +109,6 @@
                         }
                     }
                 ]
-			}
-	    ]
+	}
+    ]
 }
