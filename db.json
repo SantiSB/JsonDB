@@ -27,7 +27,12 @@
                     {
                         "color": "Blanco",
                         "code": "#FFFFFF"
-                    }	
+                    },
+					
+                    {
+                        "color": "Vinotinto",
+                        "code": "#420000"
+                    }
 				],
 				"pictures": [
                     {
