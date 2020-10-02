@@ -42,14 +42,14 @@
                         "img": "https://img2.freepng.es/20180413/waw/kisspng-handbag-computer-icons-vector-idea-5ad09f596f92d7.474295701523621721457.jpg",
                         "colorPicture": "Negro",
                         "codeColor": "#000000",
-                        "mainPicture": true
+                        "mainPicture": false
                     },
                     {
                         "idPicture": 2,
                         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NYCS-bull-trans-F.svg/1200px-NYCS-bull-trans-F.svg.png",
                         "colorPicture": "Negro",
                         "codeColor": "#000000",
-                        "mainPicture": false
+                        "mainPicture": true
                     },
                     {
                         "idPicture": 3,
