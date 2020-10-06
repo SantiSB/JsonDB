@@ -21,21 +21,6 @@
                 "hight": 80,
                 "depth": 30,
 				"recomendations": "Lavar a mano, secar al sol",
-				"colors": [
-                    {
-                        "color": "Negro",
-                        "code": "#000000"
-                    },
-                    {
-                        "color": "Blanco",
-                        "code": "#FFFFFF"
-                    },
-					
-                    {
-                        "color": "Vinotinto",
-                        "code": "#420000"
-                    }
-				],
 				"pictures": [
                     {
                         "idPicture": 1,
@@ -89,17 +74,7 @@
                 "hight": 80,
                 "depth": 30,
 				"recomendations": "Lavar a mano, secar al sol",
-				"colors": [
-                    {
-                        "color": "Negro",
-                        "code": "#000000"
-                    },
-                    {
-                        "color": "Blanco",
-                        "code": "#FFFFFF"
-                    }	
-				],
-				"pictures": [
+								"pictures": [
                     {
                         "idPicture": 1,
                         "img": "https://img2.freepng.es/20180723/ajb/kisspng-tote-bag-satchel-handbag-guess-jimmy-choo-5b5656ac7c6197.4666976715323849405095.jpg",
